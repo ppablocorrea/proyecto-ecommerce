@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Computer",
-    "precio": "759.00",
+    "precio": "759",
     "stock": "111",
     "marca": "Kids",
     "categoria": "Practical Concrete Fish",
@@ -12,7 +12,7 @@
   },
   {
     "nombre": "Cheese",
-    "precio": "976.00",
+    "precio": "976",
     "stock": 77,
     "marca": "Electronics",
     "categoria": "Rustic Wooden Pizza",
@@ -23,7 +23,7 @@
   },
   {
     "nombre": "Keyboard",
-    "precio": "682.00",
+    "precio": "682",
     "stock": 15,
     "marca": "Kids",
     "categoria": "Unbranded Granite Pants",
@@ -34,7 +34,7 @@
   },
   {
     "nombre": "Bacon",
-    "precio": "435.00",
+    "precio": "435",
     "stock": 68,
     "marca": "Kids",
     "categoria": "Intelligent Frozen Gloves",
@@ -45,7 +45,7 @@
   },
   {
     "nombre": "Shirt",
-    "precio": "282.00",
+    "precio": "282",
     "stock": 55,
     "marca": "Kids",
     "categoria": "Luxurious Fresh Chair",
