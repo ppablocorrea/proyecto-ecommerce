@@ -11,13 +11,15 @@ function CarritoCard(props) {
           src={props.imagen}
           alt={props.nombre}
         />
-        <Flex gap={"5px"} direction={"column"}>
+        <Flex minWidth={"130px"} gap={"5px"} direction={"column"}>
           <Text>{props.nombre}</Text>
           <Text>Talle:{props.talle}</Text>
           <Text>Cantidad:{props.cantidad}</Text>
           <Text>${props.precio}</Text>
         </Flex>
-        <RiDeleteBinLine />
+        <Flex pt={"5px"}>
+          <RiDeleteBinLine size={"20px"} />
+        </Flex>
       </Flex>
     </>
   );
